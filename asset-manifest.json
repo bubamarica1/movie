@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bubamarica1/movie.git/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/bubamarica1/movie.git/static/js/main.a8b8ddd8.chunk.js",
+    "main.js.map": "/bubamarica1/movie.git/static/js/main.a8b8ddd8.chunk.js.map",
+    "runtime-main.js": "/bubamarica1/movie.git/static/js/runtime-main.2b54fc54.js",
+    "runtime-main.js.map": "/bubamarica1/movie.git/static/js/runtime-main.2b54fc54.js.map",
+    "static/js/2.9ebd5223.chunk.js": "/bubamarica1/movie.git/static/js/2.9ebd5223.chunk.js",
+    "static/js/2.9ebd5223.chunk.js.map": "/bubamarica1/movie.git/static/js/2.9ebd5223.chunk.js.map",
+    "index.html": "/bubamarica1/movie.git/index.html",
+    "precache-manifest.f78a32b55d3c610bb80c2f0dea72ee12.js": "/bubamarica1/movie.git/precache-manifest.f78a32b55d3c610bb80c2f0dea72ee12.js",
+    "service-worker.js": "/bubamarica1/movie.git/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/bubamarica1/movie.git/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.9ebd5223.chunk.js.LICENSE.txt": "/bubamarica1/movie.git/static/js/2.9ebd5223.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b54fc54.js",
+    "static/js/2.9ebd5223.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.a8b8ddd8.chunk.js"
+  ]
+}
